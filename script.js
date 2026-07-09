@@ -9,7 +9,7 @@ document.querySelector('.contact-form').addEventListener('submit', async functio
         var res = await fetch(this.action, { method:'POST', body:new FormData(this), headers:{'Accept':'application/json'} });
         if (res.ok) {
             status.style.color = '#4ade80';
-            status.textContent = 'Message received, Waseem will contact you soon';
+            status.textContent = 'Message received, Waseem will contact you soon.';
             this.reset();
         } else {
             status.style.color = '#f87171';
