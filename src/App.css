@@ -46,7 +46,7 @@ nav ul a:hover { color: #38bdf8; }
   background: linear-gradient(135deg, #1e293b, #0f172a);
   border: 2px solid #38bdf8;
 }
-.circle-sqa svg { width: 72px; height: 72px; transform: translateY(25px); }
+.circle-sqa svg { width: 72px; height: 72px; }
 .circle-photo {
   width: 180px; height: 180px; bottom: 0; left: 0;
   background: linear-gradient(135deg, #1e293b, #0f172a);
