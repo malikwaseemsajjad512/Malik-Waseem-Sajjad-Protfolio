@@ -225,6 +225,7 @@ footer {
   nav ul { display: none; }
   .hamburger { display: flex; }
   nav ul.open { display: flex; flex-direction: column; position: absolute; top: 64px; left: 0; right: 0; background: rgba(15,23,42,0.98); padding: 20px 24px; border-bottom: 1px solid #1e293b; gap: 16px; }
+  nav .container { justify-content: space-between; }
   .hero h1 { font-size: 2.2rem; }
   section { padding: 64px 0; }
 }
