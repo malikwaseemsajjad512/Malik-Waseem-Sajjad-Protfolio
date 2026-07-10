@@ -42,7 +42,7 @@ nav ul a:hover { color: #38bdf8; }
   box-shadow: 0 0 30px rgba(56,189,248,0.1);
 }
 .circle-sqa {
-  width: 150px; height: 150px; top: 15px; right: 0;
+  width: 150px; height: 150px; top: 25px; right: 0;
   background: linear-gradient(135deg, #1e293b, #0f172a);
   border: 2px solid #38bdf8;
 }
