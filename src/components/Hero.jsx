@@ -18,7 +18,7 @@ export default function Hero() {
         <div className="hero-visual">
           <div className="hero-circle circle-sqa">
             <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <g transform="translate(0, 4)">
+              <g transform="translate(0, 2)">
                 <path d="M40 8L12 20v16c0 18.64 11.6 36.08 28 40 16.4-3.92 28-21.36 28-40V20L40 8z" fill="#0f172a" stroke="#38bdf8" strokeWidth="2.5"/>
                 <path d="M30 42l8 8 16-20" stroke="#38bdf8" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round" fill="none"/>
                 <circle cx="20" cy="26" r="3" fill="#7dd3fc" opacity="0.6"/>
